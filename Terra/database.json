@@ -1,0 +1,1880 @@
+{
+  "mountains": [
+    {
+      "id": "semeru",
+      "name": "Gunung Semeru",
+      "elevation": "3.676 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Sulit",
+      "estimated_duration": "3 Hari 2 Malam",
+      "coords": [
+        -8.1075,
+        112.9224
+      ],
+      "description": "Atap Pulau Jawa. Terkenal dengan Danau Ranu Kumbolo dan kawah Jonggring Saloko yang legendaris.",
+      "image_url": "https://images.unsplash.com/photo-1589308078059-be1415eab4c3?auto=format&fit=crop&w=600&q=80",
+      "density": "Sangat Ramai",
+      "weather": {
+        "current": "Hujan Lebat",
+        "temp": "10°C",
+        "wind": "35 km/jam",
+        "humidity": "95%",
+        "forecast": "Hujan deras disertai angin kencang berpotensi terjadi sepanjang hari.",
+        "warnings": [
+          "Peringatan Hujan Lebat di wilayah lereng Semeru",
+          "Peringatan Angin Kencang di atas Pos 4"
+        ]
+      },
+      "quota": {
+        "total": 300,
+        "active_climbers": 298,
+        "remaining": 2
+      },
+      "routes": [
+        {
+          "name": "Via Ranupani",
+          "duration": "10-12 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Ranupani",
+                "type": "start",
+                "coords": [
+                  5,
+                  80
+                ]
+              },
+              {
+                "name": "Landengan Dowo",
+                "type": "post",
+                "coords": [
+                  20,
+                  75
+                ]
+              },
+              {
+                "name": "Watu Rejeng",
+                "type": "post",
+                "coords": [
+                  35,
+                  70
+                ]
+              },
+              {
+                "name": "Ranu Kumbolo",
+                "type": "water",
+                "coords": [
+                  50,
+                  55
+                ]
+              },
+              {
+                "name": "Oro-oro Ombo",
+                "type": "post",
+                "coords": [
+                  62,
+                  50
+                ]
+              },
+              {
+                "name": "Cemoro Kandang",
+                "type": "post",
+                "coords": [
+                  70,
+                  45
+                ]
+              },
+              {
+                "name": "Kalimati",
+                "type": "camp",
+                "coords": [
+                  80,
+                  30
+                ]
+              },
+              {
+                "name": "Arcopodo",
+                "type": "post",
+                "coords": [
+                  88,
+                  20
+                ]
+              },
+              {
+                "name": "Puncak Mahameru",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Via Ayek-ayek",
+          "duration": "8-10 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Ranupani",
+                "type": "start",
+                "coords": [
+                  5,
+                  80
+                ]
+              },
+              {
+                "name": "Pos Ayek-ayek",
+                "type": "post",
+                "coords": [
+                  25,
+                  75
+                ]
+              },
+              {
+                "name": "Pangonan Cilik",
+                "type": "post",
+                "coords": [
+                  45,
+                  65
+                ]
+              },
+              {
+                "name": "Ranu Kumbolo",
+                "type": "water",
+                "coords": [
+                  65,
+                  55
+                ]
+              },
+              {
+                "name": "Puncak Mahameru",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "merbabu",
+      "name": "Gunung Merbabu",
+      "elevation": "3.142 mdpl",
+      "location": "Jawa Tengah",
+      "difficulty": "Sedang",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -7.4522,
+        110.4436
+      ],
+      "description": "Terkenal dengan keindahan sabananya yang hijau luas dan pemandangan Gunung Merapi yang megah.",
+      "image_url": "assets/images/merbabu.jpg",
+      "density": "Sedang",
+      "weather": {
+        "current": "Cerah Berawan",
+        "temp": "14°C",
+        "wind": "12 km/jam",
+        "humidity": "65%",
+        "forecast": "Cerah berawan di pagi hari, hujan ringan menjelang sore.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 250,
+        "active_climbers": 166,
+        "remaining": 84
+      },
+      "routes": [
+        {
+          "name": "Via Selo",
+          "duration": "6-8 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Selo",
+                "type": "start",
+                "coords": [
+                  10,
+                  85
+                ]
+              },
+              {
+                "name": "Pos 1 Dok Malang",
+                "type": "post",
+                "coords": [
+                  25,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 2 Kupang",
+                "type": "water",
+                "coords": [
+                  50,
+                  60
+                ]
+              },
+              {
+                "name": "Pos 3 Watu Tulis",
+                "type": "post",
+                "coords": [
+                  55,
+                  50
+                ]
+              },
+              {
+                "name": "Pos 4 Sabana 1",
+                "type": "camp",
+                "coords": [
+                  70,
+                  35
+                ]
+              },
+              {
+                "name": "Pos 5 Sabana 2",
+                "type": "camp",
+                "coords": [
+                  82,
+                  25
+                ]
+              },
+              {
+                "name": "Puncak Kenteng Songo",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Via Suwanting",
+          "duration": "7-9 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Suwanting",
+                "type": "start",
+                "coords": [
+                  10,
+                  80
+                ]
+              },
+              {
+                "name": "Pos 1 Lembah Lincing",
+                "type": "post",
+                "coords": [
+                  30,
+                  70
+                ]
+              },
+              {
+                "name": "Pos 2 Lembah Cemoro",
+                "type": "post",
+                "coords": [
+                  55,
+                  50
+                ]
+              },
+              {
+                "name": "Pos 3 Dampo Awang",
+                "type": "camp",
+                "coords": [
+                  75,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Kenteng Songo",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "merapi",
+      "name": "Gunung Merapi",
+      "elevation": "2.930 mdpl",
+      "location": "Jawa Tengah",
+      "difficulty": "Sulit",
+      "estimated_duration": "1 Hari / Tektok",
+      "coords": [
+        -7.5407,
+        110.4428
+      ],
+      "description": "Salah satu gunung berapi teraktif di dunia dengan trek bebatuan dan pasir yang menantang.",
+      "image_url": "assets/images/merapi.jpg",
+      "density": "Sedang",
+      "weather": {
+        "current": "Cerah",
+        "temp": "15°C",
+        "wind": "15 km/jam",
+        "humidity": "60%",
+        "forecast": "Cerah sepanjang hari, aktivitas vulkanik terpantau normal.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 150,
+        "active_climbers": 60,
+        "remaining": 90
+      },
+      "routes": [
+        {
+          "name": "Via New Selo",
+          "duration": "5-6 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp New Selo",
+                "type": "start",
+                "coords": [
+                  10,
+                  85
+                ]
+              },
+              {
+                "name": "Pos 1",
+                "type": "post",
+                "coords": [
+                  30,
+                  70
+                ]
+              },
+              {
+                "name": "Pos 2",
+                "type": "post",
+                "coords": [
+                  50,
+                  50
+                ]
+              },
+              {
+                "name": "Pasar Bubrah",
+                "type": "camp",
+                "coords": [
+                  75,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Merapi",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "prau",
+      "name": "Gunung Prau",
+      "elevation": "2.565 mdpl",
+      "location": "Jawa Tengah",
+      "difficulty": "Mudah",
+      "estimated_duration": "1 Hari / Tektok",
+      "coords": [
+        -7.1818,
+        109.9219
+      ],
+      "description": "Gunung favorit pendaki pemula dengan puncak berupa padang rumput luas dan pemandangan golden sunrise terbaik di Asia Tenggara.",
+      "image_url": "assets/images/prau.jpg",
+      "density": "Ramai",
+      "weather": {
+        "current": "Cerah",
+        "temp": "12°C",
+        "wind": "8 km/jam",
+        "humidity": "50%",
+        "forecast": "Cerah berawan di pagi hari, sangat sejuk di malam hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 400,
+        "active_climbers": 310,
+        "remaining": 90
+      },
+      "routes": [
+        {
+          "name": "Via Patakbanteng",
+          "duration": "3-4 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Patakbanteng",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 1 Sikut Dewo",
+                "type": "post",
+                "coords": [
+                  35,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 2 Canggal Bulung",
+                "type": "post",
+                "coords": [
+                  55,
+                  55
+                ]
+              },
+              {
+                "name": "Pos 3 Cacingan",
+                "type": "camp",
+                "coords": [
+                  75,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Prau",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Via Dieng",
+          "duration": "3-4 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Dieng",
+                "type": "start",
+                "coords": [
+                  10,
+                  85
+                ]
+              },
+              {
+                "name": "Pos 1 Gemblengan",
+                "type": "post",
+                "coords": [
+                  35,
+                  70
+                ]
+              },
+              {
+                "name": "Pos 2 Semendung",
+                "type": "post",
+                "coords": [
+                  60,
+                  50
+                ]
+              },
+              {
+                "name": "Pos 3 Ngrancah",
+                "type": "camp",
+                "coords": [
+                  80,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Prau",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sindoro",
+      "name": "Gunung Sindoro",
+      "elevation": "3.136 mdpl",
+      "location": "Jawa Tengah",
+      "difficulty": "Sedang",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -7.3013,
+        109.9984
+      ],
+      "description": "Menawarkan keindahan kawah belerang aktif yang sangat luas serta hamparan bunga edelweiss.",
+      "image_url": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=600&q=80",
+      "density": "Sedang",
+      "weather": {
+        "current": "Cerah Berawan",
+        "temp": "13°C",
+        "wind": "14 km/jam",
+        "humidity": "62%",
+        "forecast": "Cerah berawan sepanjang hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 300,
+        "active_climbers": 120,
+        "remaining": 180
+      },
+      "routes": [
+        {
+          "name": "Via Kledung",
+          "duration": "5-7 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Kledung",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 1",
+                "type": "post",
+                "coords": [
+                  30,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 2",
+                "type": "post",
+                "coords": [
+                  50,
+                  60
+                ]
+              },
+              {
+                "name": "Pos 3",
+                "type": "camp",
+                "coords": [
+                  75,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Sindoro",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "sumbing",
+      "name": "Gunung Sumbing",
+      "elevation": "3.371 mdpl",
+      "location": "Jawa Tengah",
+      "difficulty": "Sulit",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -7.3842,
+        110.0707
+      ],
+      "description": "Gunung tertinggi kedua di Jawa Tengah. Terkenal dengan jalur pendakian yang terjal namun sangat indah.",
+      "image_url": "https://images.unsplash.com/photo-1570168007204-dfb528c6958f?auto=format&fit=crop&w=600&q=80",
+      "density": "Sedang",
+      "weather": {
+        "current": "Berawan",
+        "temp": "11°C",
+        "wind": "18 km/jam",
+        "humidity": "70%",
+        "forecast": "Berawan di siang hari dengan potensi kabut tebal.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 250,
+        "active_climbers": 85,
+        "remaining": 165
+      },
+      "routes": [
+        {
+          "name": "Via Garung",
+          "duration": "7-8 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Garung",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 1 Pestan",
+                "type": "post",
+                "coords": [
+                  35,
+                  70
+                ]
+              },
+              {
+                "name": "Pos 2 Watu Kotak",
+                "type": "post",
+                "coords": [
+                  60,
+                  50
+                ]
+              },
+              {
+                "name": "Pos 3 Plawangan",
+                "type": "camp",
+                "coords": [
+                  80,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Sumbing",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "lawu",
+      "name": "Gunung Lawu",
+      "elevation": "3.265 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Sedang",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -7.6256,
+        111.1947
+      ],
+      "description": "Gunung mistis yang kaya akan sejarah kerajaan Jawa, terkenal dengan warung tertinggi 'Mbok Yem' di dekat puncaknya.",
+      "image_url": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=600&q=80",
+      "density": "Ramai",
+      "weather": {
+        "current": "Cerah",
+        "temp": "12°C",
+        "wind": "10 km/jam",
+        "humidity": "55%",
+        "forecast": "Cerah dan kering, disarankan membawa pakaian tebal.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 350,
+        "active_climbers": 240,
+        "remaining": 110
+      },
+      "routes": [
+        {
+          "name": "Via Candi Cetho",
+          "duration": "8-10 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Cetho",
+                "type": "start",
+                "coords": [
+                  5,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 1",
+                "type": "post",
+                "coords": [
+                  25,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 2",
+                "type": "post",
+                "coords": [
+                  45,
+                  60
+                ]
+              },
+              {
+                "name": "Pos 3 Bulak Peper",
+                "type": "post",
+                "coords": [
+                  60,
+                  50
+                ]
+              },
+              {
+                "name": "Pos 4 Gupakan Menjangan",
+                "type": "camp",
+                "coords": [
+                  78,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Hargo Dumilah",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "arjuno",
+      "name": "Gunung Arjuno",
+      "elevation": "3.339 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Sulit",
+      "estimated_duration": "3 Hari 2 Malam",
+      "coords": [
+        -7.7739,
+        112.5872
+      ],
+      "description": "Memiliki trek yang sangat panjang dan menantang dengan peninggalan situs sejarah di sepanjang jalurnya.",
+      "image_url": "assets/images/arjuno.jpg",
+      "density": "Sepi",
+      "weather": {
+        "current": "Renyai",
+        "temp": "14°C",
+        "wind": "20 km/jam",
+        "humidity": "85%",
+        "forecast": "Gerimis ringan di siang hari dengan suhu dingin di puncak.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 200,
+        "active_climbers": 45,
+        "remaining": 155
+      },
+      "routes": [
+        {
+          "name": "Via Tretes",
+          "duration": "10-12 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Tretes",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pet Bocor",
+                "type": "post",
+                "coords": [
+                  30,
+                  75
+                ]
+              },
+              {
+                "name": "Kop-kopan",
+                "type": "water",
+                "coords": [
+                  50,
+                  60
+                ]
+              },
+              {
+                "name": "Pondokan",
+                "type": "camp",
+                "coords": [
+                  75,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Ogal-agil",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "welirang",
+      "name": "Gunung Welirang",
+      "elevation": "3.156 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Sedang",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -7.7377,
+        112.5744
+      ],
+      "description": "Dikenal dengan aktivitas penambangan belerang tradisional yang masih aktif hingga saat ini.",
+      "image_url": "assets/images/welirang.jpg",
+      "density": "Sepi",
+      "weather": {
+        "current": "Cerah",
+        "temp": "15°C",
+        "wind": "12 km/jam",
+        "humidity": "60%",
+        "forecast": "Cerah dan berangin sedang di kawasan kawah belerang.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 200,
+        "active_climbers": 30,
+        "remaining": 170
+      },
+      "routes": [
+        {
+          "name": "Via Tretes",
+          "duration": "8-9 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Tretes",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pet Bocor",
+                "type": "post",
+                "coords": [
+                  30,
+                  75
+                ]
+              },
+              {
+                "name": "Kop-kopan",
+                "type": "water",
+                "coords": [
+                  50,
+                  60
+                ]
+              },
+              {
+                "name": "Pondokan",
+                "type": "camp",
+                "coords": [
+                  75,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Welirang",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "kelud",
+      "name": "Gunung Kelud",
+      "elevation": "1.731 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Mudah",
+      "estimated_duration": "1 Hari / Tektok",
+      "coords": [
+        -7.93,
+        112.308
+      ],
+      "description": "Menawarkan keindahan kubah lava hijau dan tebing kawah eksotis yang dapat dicapai dengan berjalan santai.",
+      "image_url": "https://images.unsplash.com/photo-1618083707368-b3823daa2726?auto=format&fit=crop&w=600&q=80",
+      "density": "Ramai",
+      "weather": {
+        "current": "Cerah",
+        "temp": "22°C",
+        "wind": "5 km/jam",
+        "humidity": "50%",
+        "forecast": "Cerah berawan, cuaca bersahabat untuk wisata keluarga.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 500,
+        "active_climbers": 380,
+        "remaining": 120
+      },
+      "routes": [
+        {
+          "name": "Via Tulungagung",
+          "duration": "2-3 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Kelud",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos Terowongan",
+                "type": "post",
+                "coords": [
+                  50,
+                  50
+                ]
+              },
+              {
+                "name": "Kawah Kelud",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bromo",
+      "name": "Gunung Bromo",
+      "elevation": "2.329 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Mudah",
+      "estimated_duration": "1 Hari / Tektok",
+      "coords": [
+        -7.9425,
+        112.953
+      ],
+      "description": "Destinasi wisata internasional legendaris dengan lautan pasir berbisik dan kawah aktif berasap putih.",
+      "image_url": "https://images.unsplash.com/photo-1616038242814-a6eac7845d88?auto=format&fit=crop&w=600&q=80",
+      "density": "Sangat Ramai",
+      "weather": {
+        "current": "Cerah",
+        "temp": "12°C",
+        "wind": "25 km/jam",
+        "humidity": "45%",
+        "forecast": "Cerah berangin kencang, disarankan memakai kacamata & masker pelindung debu.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 1000,
+        "active_climbers": 920,
+        "remaining": 80
+      },
+      "routes": [
+        {
+          "name": "Via Cemoro Lawang",
+          "duration": "1-2 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Pintu Masuk",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Lautan Pasir",
+                "type": "post",
+                "coords": [
+                  50,
+                  50
+                ]
+              },
+              {
+                "name": "Tangga Kawah Bromo",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "argopuro",
+      "name": "Gunung Argopuro",
+      "elevation": "3.088 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Sulit",
+      "estimated_duration": "5 Hari 4 Malam",
+      "coords": [
+        -7.9658,
+        113.5683
+      ],
+      "description": "Gunung dengan jalur pendakian terpanjang di Pulau Jawa, melewati savana luas Cikasur yang menakjubkan.",
+      "image_url": "https://images.unsplash.com/photo-1542224566-6e85f2e6772f?auto=format&fit=crop&w=600&q=80",
+      "density": "Sepi",
+      "weather": {
+        "current": "Berawan",
+        "temp": "10°C",
+        "wind": "15 km/jam",
+        "humidity": "75%",
+        "forecast": "Berawan tebal di sore hari, dingin menusuk tulang di malam hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 100,
+        "active_climbers": 18,
+        "remaining": 82
+      },
+      "routes": [
+        {
+          "name": "Via Baderan",
+          "duration": "40-48 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Baderan",
+                "type": "start",
+                "coords": [
+                  5,
+                  95
+                ]
+              },
+              {
+                "name": "Pos Alun-alun",
+                "type": "post",
+                "coords": [
+                  30,
+                  70
+                ]
+              },
+              {
+                "name": "Cikasur",
+                "type": "camp",
+                "coords": [
+                  55,
+                  45
+                ]
+              },
+              {
+                "name": "Rawa Embik",
+                "type": "water",
+                "coords": [
+                  75,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Rengganis",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "raung",
+      "name": "Gunung Raung",
+      "elevation": "3.344 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Sulit",
+      "estimated_duration": "3 Hari 2 Malam",
+      "coords": [
+        -8.125,
+        114.045
+      ],
+      "description": "Terkenal dengan kaldera terbesar kedua di Indonesia serta jalur ekstrem 'Jembatan Sirotol Mustaqim' yang memicu adrenalin.",
+      "image_url": "https://images.unsplash.com/photo-1502082553048-f009c37129b9?auto=format&fit=crop&w=600&q=80",
+      "density": "Sepi",
+      "weather": {
+        "current": "Cerah",
+        "temp": "11°C",
+        "wind": "30 km/jam",
+        "humidity": "50%",
+        "forecast": "Cerah dengan angin kencang berhembus konstan di bibir kaldera.",
+        "warnings": [
+          "Waspada hembusan angin kencang di Puncak Tusuk Gigi"
+        ]
+      },
+      "quota": {
+        "total": 150,
+        "active_climbers": 35,
+        "remaining": 115
+      },
+      "routes": [
+        {
+          "name": "Via Kalibaru",
+          "duration": "14-16 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Kalibaru",
+                "type": "start",
+                "coords": [
+                  5,
+                  95
+                ]
+              },
+              {
+                "name": "Pos 3",
+                "type": "post",
+                "coords": [
+                  25,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 7",
+                "type": "camp",
+                "coords": [
+                  50,
+                  50
+                ]
+              },
+              {
+                "name": "Camp Bendera",
+                "type": "camp",
+                "coords": [
+                  75,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Sejati",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ijen",
+      "name": "Gunung Ijen",
+      "elevation": "2.443 mdpl",
+      "location": "Jawa Timur",
+      "difficulty": "Mudah",
+      "estimated_duration": "1 Hari / Tektok",
+      "coords": [
+        -8.058,
+        114.242
+      ],
+      "description": "Terkenal di seluruh dunia berkat fenomena alam langka 'Blue Fire' api biru di kawah belerangnya.",
+      "image_url": "https://images.unsplash.com/photo-1583212292454-1fe6229603b7?auto=format&fit=crop&w=600&q=80",
+      "density": "Ramai",
+      "weather": {
+        "current": "Cerah",
+        "temp": "14°C",
+        "wind": "10 km/jam",
+        "humidity": "60%",
+        "forecast": "Cerah berawan di malam dan pagi hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 500,
+        "active_climbers": 380,
+        "remaining": 120
+      },
+      "routes": [
+        {
+          "name": "Via Paltuding",
+          "duration": "2-3 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Paltuding BC",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pondok Bunder",
+                "type": "post",
+                "coords": [
+                  50,
+                  50
+                ]
+              },
+              {
+                "name": "Puncak Kawah Ijen",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "papandayan",
+      "name": "Gunung Papandayan",
+      "elevation": "2.665 mdpl",
+      "location": "Jawa Barat",
+      "difficulty": "Mudah",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -7.32,
+        107.73
+      ],
+      "description": "Menawarkan kawah belerang berasap, hutan mati eksotis, dan tegal alun tempat edelweiss tumbuh subur.",
+      "image_url": "https://images.unsplash.com/photo-1551818255-e6e10975bc17?auto=format&fit=crop&w=600&q=80",
+      "density": "Sedang",
+      "weather": {
+        "current": "Cerah",
+        "temp": "16°C",
+        "wind": "8 km/jam",
+        "humidity": "65%",
+        "forecast": "Cerah di pagi hari dengan kabut tipis di sore hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 300,
+        "active_climbers": 140,
+        "remaining": 160
+      },
+      "routes": [
+        {
+          "name": "Via Camp David",
+          "duration": "4-5 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Camp David BC",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Kawah Papandayan",
+                "type": "post",
+                "coords": [
+                  35,
+                  70
+                ]
+              },
+              {
+                "name": "Pondok Saladah",
+                "type": "camp",
+                "coords": [
+                  65,
+                  45
+                ]
+              },
+              {
+                "name": "Hutan Mati",
+                "type": "post",
+                "coords": [
+                  80,
+                  30
+                ]
+              },
+              {
+                "name": "Tegal Alun",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "gede",
+      "name": "Gunung Gede Pangrango",
+      "elevation": "2.958 mdpl",
+      "location": "Jawa Barat",
+      "difficulty": "Sedang",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -6.7847,
+        106.979
+      ],
+      "description": "Taman Nasional yang kaya akan flora dan fauna. Terkenal dengan Alun-alun Suryakencana yang ditumbuhi Edelweiss.",
+      "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&w=600&q=80",
+      "density": "Ramai",
+      "weather": {
+        "current": "Berawan Tebal",
+        "temp": "16°C",
+        "wind": "15 km/jam",
+        "humidity": "80%",
+        "forecast": "Mendung tebal, potensi hujan sedang di sore hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 400,
+        "active_climbers": 194,
+        "remaining": 206
+      },
+      "routes": [
+        {
+          "name": "Via Cibodas",
+          "duration": "7-9 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Cibodas",
+                "type": "start",
+                "coords": [
+                  5,
+                  88
+                ]
+              },
+              {
+                "name": "Telaga Biru",
+                "type": "post",
+                "coords": [
+                  20,
+                  80
+                ]
+              },
+              {
+                "name": "Pos Panyangcangan",
+                "type": "post",
+                "coords": [
+                  35,
+                  70
+                ]
+              },
+              {
+                "name": "Air Panas",
+                "type": "water",
+                "coords": [
+                  50,
+                  58
+                ]
+              },
+              {
+                "name": "Kandang Batu",
+                "type": "post",
+                "coords": [
+                  62,
+                  50
+                ]
+              },
+              {
+                "name": "Kandang Badak",
+                "type": "camp",
+                "coords": [
+                  78,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Gunung Gede",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "ciremai",
+      "name": "Gunung Ciremai",
+      "elevation": "3.078 mdpl",
+      "location": "Jawa Barat",
+      "difficulty": "Sulit",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -6.8927,
+        108.4069
+      ],
+      "description": "Atap Jawa Barat. Gunung tertinggi di provinsi ini dengan trek menanjak tanpa ampun dan kawah kembar menawan.",
+      "image_url": "https://images.unsplash.com/photo-1549880338-65ddcdfd017b?auto=format&fit=crop&w=600&q=80",
+      "density": "Sedang",
+      "weather": {
+        "current": "Berawan",
+        "temp": "14°C",
+        "wind": "12 km/jam",
+        "humidity": "70%",
+        "forecast": "Cerah berawan di pagi hari, hujan ringan di sore hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 200,
+        "active_climbers": 94,
+        "remaining": 106
+      },
+      "routes": [
+        {
+          "name": "Via Apuy",
+          "duration": "7-8 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Apuy",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 2",
+                "type": "post",
+                "coords": [
+                  35,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 4",
+                "type": "post",
+                "coords": [
+                  55,
+                  55
+                ]
+              },
+              {
+                "name": "Pos 5 Goa Walet",
+                "type": "camp",
+                "coords": [
+                  80,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Ciremai",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "slamet",
+      "name": "Gunung Slamet",
+      "elevation": "3.428 mdpl",
+      "location": "Jawa Tengah",
+      "difficulty": "Sulit",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -7.2422,
+        109.2178
+      ],
+      "description": "Gunung tertinggi di Jawa Tengah. Terkenal dengan jalur legendaris berpasir merah dan tiupan angin puncak ekstrem.",
+      "image_url": "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=600&q=80",
+      "density": "Sepi",
+      "weather": {
+        "current": "Cerah",
+        "temp": "12°C",
+        "wind": "28 km/jam",
+        "humidity": "55%",
+        "forecast": "Cerah dan sangat berangin dingin.",
+        "warnings": [
+          "Waspada hembusan angin kencang di batas vegetasi"
+        ]
+      },
+      "quota": {
+        "total": 300,
+        "active_climbers": 70,
+        "remaining": 230
+      },
+      "routes": [
+        {
+          "name": "Via Bambangan",
+          "duration": "8-9 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Bambangan",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 2",
+                "type": "post",
+                "coords": [
+                  30,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 5 Samarantu",
+                "type": "post",
+                "coords": [
+                  55,
+                  55
+                ]
+              },
+              {
+                "name": "Pos 7",
+                "type": "camp",
+                "coords": [
+                  75,
+                  35
+                ]
+              },
+              {
+                "name": "Puncak Slamet",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "rinjani",
+      "name": "Gunung Rinjani",
+      "elevation": "3.726 mdpl",
+      "location": "Nusa Tenggara Barat",
+      "difficulty": "Sulit",
+      "estimated_duration": "3 Hari 2 Malam",
+      "coords": [
+        -8.4111,
+        116.4571
+      ],
+      "description": "Gunung berapi aktif tertinggi kedua di Indonesia dengan keindahan Danau Segara Anak di kalderanya.",
+      "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=600&q=80",
+      "density": "Sepi",
+      "weather": {
+        "current": "Cerah",
+        "temp": "18°C",
+        "wind": "8 km/jam",
+        "humidity": "55%",
+        "forecast": "Cerah sepanjang hari, ideal untuk pendakian.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 150,
+        "active_climbers": 59,
+        "remaining": 91
+      },
+      "routes": [
+        {
+          "name": "Via Sembalun",
+          "duration": "10-14 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Sembalun",
+                "type": "start",
+                "coords": [
+                  10,
+                  85
+                ]
+              },
+              {
+                "name": "Pos 1 Pemantauan",
+                "type": "post",
+                "coords": [
+                  25,
+                  78
+                ]
+              },
+              {
+                "name": "Pos 2 Tengengean",
+                "type": "water",
+                "coords": [
+                  40,
+                  68
+                ]
+              },
+              {
+                "name": "Pos 3 Pada Balong",
+                "type": "post",
+                "coords": [
+                  55,
+                  55
+                ]
+              },
+              {
+                "name": "Pos 4 Sembalun Lawang",
+                "type": "post",
+                "coords": [
+                  70,
+                  45
+                ]
+              },
+              {
+                "name": "Plawangan Sembalun",
+                "type": "camp",
+                "coords": [
+                  85,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Rinjani",
+                "type": "peak",
+                "coords": [
+                  96,
+                  10
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "name": "Via Senaru",
+          "duration": "12-16 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Senaru",
+                "type": "start",
+                "coords": [
+                  10,
+                  85
+                ]
+              },
+              {
+                "name": "Pos 1 Mondokon Lolon",
+                "type": "post",
+                "coords": [
+                  30,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 2 Teniga",
+                "type": "water",
+                "coords": [
+                  50,
+                  60
+                ]
+              },
+              {
+                "name": "Pos 3 Cemara Rompes",
+                "type": "post",
+                "coords": [
+                  70,
+                  45
+                ]
+              },
+              {
+                "name": "Plawangan Senaru",
+                "type": "camp",
+                "coords": [
+                  85,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Rinjani",
+                "type": "peak",
+                "coords": [
+                  96,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "kerinci",
+      "name": "Gunung Kerinci",
+      "elevation": "3.805 mdpl",
+      "location": "Jambi",
+      "difficulty": "Sulit",
+      "estimated_duration": "2 Hari 1 Malam",
+      "coords": [
+        -1.6969,
+        101.2644
+      ],
+      "description": "Gunung berapi tertinggi di Indonesia. Berlokasi di Sumatera Barat/Jambi, dikelilingi hutan hujan tropis lebat habitat Harimau Sumatera.",
+      "image_url": "assets/images/kerinci.jpg",
+      "density": "Sepi",
+      "weather": {
+        "current": "Cerah Berawan",
+        "temp": "13°C",
+        "wind": "10 km/jam",
+        "humidity": "60%",
+        "forecast": "Cerah berawan di pagi hari, berkabut tebal di sore hari.",
+        "warnings": []
+      },
+      "quota": {
+        "total": 100,
+        "active_climbers": 24,
+        "remaining": 76
+      },
+      "routes": [
+        {
+          "name": "Via Kersik Tuo",
+          "duration": "10-12 Jam",
+          "map": {
+            "posts": [
+              {
+                "name": "Basecamp Kersik Tuo",
+                "type": "start",
+                "coords": [
+                  10,
+                  90
+                ]
+              },
+              {
+                "name": "Pos 1",
+                "type": "post",
+                "coords": [
+                  30,
+                  75
+                ]
+              },
+              {
+                "name": "Pos 3",
+                "type": "post",
+                "coords": [
+                  50,
+                  60
+                ]
+              },
+              {
+                "name": "Shelter 1",
+                "type": "camp",
+                "coords": [
+                  70,
+                  45
+                ]
+              },
+              {
+                "name": "Shelter 3",
+                "type": "camp",
+                "coords": [
+                  85,
+                  30
+                ]
+              },
+              {
+                "name": "Puncak Indrapura",
+                "type": "peak",
+                "coords": [
+                  95,
+                  10
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "email": "puki@gmail.com",
+      "password": "Prabowo"
+    }
+  ],
+  "tickets": [
+    {
+      "id": "TERRA-570D4746",
+      "user_email": "puki@gmail.com",
+      "mountain_id": "rinjani",
+      "basecamp": "Via Sembalun",
+      "climb_date_start": "2026-06-11",
+      "climb_date_end": "2026-06-13",
+      "members": [
+        {
+          "name": "Pukimai",
+          "ktp": "1234567890123456"
+        }
+      ],
+      "created_at": "2026-06-11 06:02:48"
+    },
+    {
+      "id": "TERRA-C578A54C",
+      "user_email": "puki@gmail.com",
+      "mountain_id": "gede",
+      "basecamp": "Via Cibodas",
+      "climb_date_start": "2026-06-12",
+      "climb_date_end": "2026-06-13",
+      "members": [
+        {
+          "name": "Pukimai",
+          "ktp": "1234567890123456"
+        },
+        {
+          "name": "Pukimai2",
+          "ktp": "1234567890123456"
+        }
+      ],
+      "created_at": "2026-06-11 06:04:19"
+    },
+    {
+      "id": "TERRA-D0BC4BCA",
+      "user_email": "puki@gmail.com",
+      "mountain_id": "gede",
+      "basecamp": "Via Cibodas",
+      "climb_date_start": "2026-06-12",
+      "climb_date_end": "2026-06-13",
+      "members": [
+        {
+          "name": "Pukimai",
+          "ktp": "1234567890123456"
+        },
+        {
+          "name": "Pukimai2",
+          "ktp": "1234567890123456"
+        }
+      ],
+      "created_at": "2026-06-11 06:39:54"
+    }
+  ]
+}
